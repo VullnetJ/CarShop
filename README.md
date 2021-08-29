@@ -73,5 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 <img width="1433" alt="Screenshot 2021-08" src="https://user-images.githubusercontent.com/46821353/131254157-daf1adab-15c4-4d8e-80a4-1bb9ca972216.png">
 <img width="1440" alt="Screenshot 2021-08" src="https://user-images.githubusercontent.com/46821353/131254163-167a308d-c82e-4b29-bb9e-dcb647c4cb5a.png">
 <img width="1440" alt="Screenshot 2021-08-29 at 17 34 42" src="https://user-images.githubusercontent.com/46821353/131254186-7dd6b3fb-6f4d-4fd8-84a0-42ec07cb7274.png">
+<img width="1440" alt="Screenshot 2021-08" src="https://user-images.githubusercontent.com/46821353/131254229-aac0f15f-4c08-43c8-9e8e-29882d5e23d6.png">
 
 
